@@ -1,5 +1,7 @@
 # vagrant-centos8
 
+Tested against Ubuntu (Linux Mint 18.3 Sylvia)
+
 ### 1 - Install dependencies
 
   1. Download and install Virtualbox
